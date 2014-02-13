@@ -49,6 +49,6 @@ we integrate resources to serve new era of innovation. Seeed also works with <br
 global distributors and partners to push open hardware movement.<br>
 
 
-
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove_Chainable_RGB_LED)](https://github.com/igrigorik/ga-beacon)
 
 
