@@ -16,7 +16,7 @@ ChainableLED leds(7, 8, NUM_LEDS);//defines the pin used on arduino.
 
 void setup()
 {
-  //nothing
+  leds.init();
 }
 
 float hue = 0.0;
