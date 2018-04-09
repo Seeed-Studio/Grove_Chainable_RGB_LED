@@ -1,26 +1,31 @@
 ChainableLED
 ---------------
 
-[![ChainableLED](http://www.seeedstudio.com/wiki/images/thumb/9/94/Chanbalelednb1.jpg/300px-Chanbalelednb1.jpg)](http://www.seeedstudio.com/depot/twig-chainable-rgb-led-p-850.html?cPath=156_157)
+[Grove - Chainable RGB LED](https://www.seeedstudio.com/Grove-Chainable-RGB-LED-p-850.html)
+
+<img src=https://statics3.seeedstudio.com/images/product/chanbalelednb1.jpg width=300><img src=https://statics3.seeedstudio.com/product/chanbalelednb1_02.jpg width=300>
+
+[Grove – Chainable RGB Led V2.0](https://www.seeedstudio.com/Grove-%E2%80%93-Chainable-RGB-Led-V2.0-p-2903.html)
+
+<img src=https://statics3.seeedstudio.com/seeed/file/2017-07/bazaar501790_10402004845.jpg width=300><img src=https://statics3.seeedstudio.com/seeed/file/2017-07/bazaar501794_1040200484.jpg width=300>
+
 
 Arduino library compatible with Grove Chainable LED and the P9813 chip. It allows controlling a chain of LEDS individually. 
 Supports both RGB and HSB color spaces for setting the color of each individual LED.
 
-
+For more information please visit [Seeed wiki](http://wiki.seeedstudio.com/Grove-Chainable_RGB_LED/) or [the author's Gitub](https://github.com/pjpmarques/ChainableLED).
 
 ### Usage:
 
-####Installation
+#### Installation
 
-1. Grab the latest version from the download section of GitHub.
-(https://github.com/pjpmarques/ChainableLED/downloads)
+- Install library from Arduino Library Manager
 
-2. Unzip it to your Arduino "libraries" directory. 
+    or
 
-3. It should be ready to use. Examples are included.
+- Download source code from GitHub.
 
-
-####Library Interface
+#### Library Interface
 
 ```c++
     class ChainableLED {
