@@ -1,4 +1,4 @@
-ChainableLED
+ChainableLED  [![Build Status](https://travis-ci.com/Seeed-Studio/Grove_Chainable_RGB_LED.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Grove_Chainable_RGB_LED)
 ---------------
 
 [Grove - Chainable RGB LED](https://www.seeedstudio.com/Grove-Chainable-RGB-LED-p-850.html)
